@@ -2,7 +2,7 @@
 
 This web site is best for shoe collection and fashion lovers.!
 
-### Live Site Link: 
+### Live Site Link: https://shoe-shop-866b9.web.app/home
 
 ## Description
 
@@ -17,3 +17,7 @@ This website is made for a specific product. Here is admin pannel. Admin can con
 ✔ Admin will be able to control product upload delete order status. <br />
 ✔ Nested route redirect current user identifying has been implemented. <br />
 ✔ Firebase has been used as a hosting ang mongoDb for store data. <br />
+
+
+### Private repo problem
+#1.Ami batch-4 er student.Amder somoy jei private repo diye git push korte bolesilo seta kno jani ami programing-hero1 github theke khuje paitesi na... 2.Tai ei project ta ami amr github theke private repo theke kore dilam..
